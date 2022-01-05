@@ -13,6 +13,7 @@
 		809EBF9027862D35001FF09F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 809EBF8E27862D35001FF09F /* Main.storyboard */; };
 		809EBF9227862D37001FF09F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 809EBF9127862D37001FF09F /* Assets.xcassets */; };
 		809EBF9527862D37001FF09F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 809EBF9327862D37001FF09F /* LaunchScreen.storyboard */; };
+		80E4B8562786436C00C85EAF /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80E4B8552786436C00C85EAF /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		809EBF9127862D37001FF09F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		809EBF9427862D37001FF09F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		809EBF9627862D37001FF09F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		80E4B8552786436C00C85EAF /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				809EBF9127862D37001FF09F /* Assets.xcassets */,
 				809EBF9327862D37001FF09F /* LaunchScreen.storyboard */,
 				809EBF9627862D37001FF09F /* Info.plist */,
+				80E4B8552786436C00C85EAF /* SwiftyJSON.swift */,
 			);
 			path = TopStories;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				809EBF8D27862D35001FF09F /* SourcesViewController.swift in Sources */,
 				809EBF8927862D35001FF09F /* AppDelegate.swift in Sources */,
 				809EBF8B27862D35001FF09F /* SceneDelegate.swift in Sources */,
+				80E4B8562786436C00C85EAF /* SwiftyJSON.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
