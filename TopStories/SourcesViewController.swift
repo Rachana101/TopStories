@@ -36,7 +36,7 @@ class SourcesViewController: UITableViewController {
             
             sources.append(source)
         }
-        tableView.reloadData()
+        tableView.reloadData() 
     }
     
     func showError() {
